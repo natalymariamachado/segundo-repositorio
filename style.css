@@ -30,12 +30,13 @@ body {
 }
 
 h1 {
-    color: var(--branco);
+    color: var(--#EB3883);
+
 }
 
 .secao1 {
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color: white;
+    background-image: linear-gradient(#EB3883 --branco)
+    color: #C25EA4;
     display: flex;
     justify-content: center;
     align-items: center;
