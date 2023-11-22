@@ -19,7 +19,7 @@
     --roxo: #929292;
     --amarelo: #F1F10E;
     --azul: #3d89ec;
-    --rosa-degrade: linear-gradient(#C25EA4,#EB3883);;
+    --rosa-degrade: linear-gradient(#EB3883,#C25EA4);;
     --fonte-principal: "Roboto";
     --fonte-secundaria: "Prompt";
 }
