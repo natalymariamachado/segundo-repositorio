@@ -13,13 +13,13 @@
     --cor-4: #FF7656;
     --cor-5: #FFB84D;
     --cor-6: #ff9900;
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #de9cff;
     --branco:#FFFFFF;
     --preto: #000000;
     --roxo: #929292;
     --amarelo: #F1F10E;
     --azul: #3d89ec;
-    --rosa-degrade: linear-gradient(#EB3883,#C25EA4);;
+    --rosa-degrade: linear-gradient(#EB3883,#4B0038);;
     --fonte-principal: "Roboto";
     --fonte-secundaria: "Prompt";
 }
@@ -35,7 +35,7 @@ h1 {
 }
 
 .secao1 {
-    background-image: linear-gradient(#C25EA4,#EB3883);
+    background-image: linear-gradient(#EB3883,#4B0038);
     color: white;
     display: flex;
     justify-content: center;
