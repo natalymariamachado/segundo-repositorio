@@ -35,8 +35,8 @@ h1 {
 }
 
 .secao1 {
-    background-image: linear-gradient(#EB3883 #C25EA4)
-    color: #C25EA4;
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
